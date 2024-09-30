@@ -1,8 +1,10 @@
 #Christopher Kenny
 #CS 175
+#For-loop Document Assignment
 
-#Squaring a list of elements
+#Squares of List
 num = [2, 4, 6, 8]
+
 for i in num:
   squared = i ** 2
   print(squared)
